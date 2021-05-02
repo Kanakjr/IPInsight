@@ -1,4 +1,4 @@
-# IPInsight - Unsupervised anomaly detection for susicipous IP addresses
+# IP Insight - Unsupervised Anomaly Detection for Suspicious IP Addresses
 
 ![IPInsight-Logo](images/logo.png)
 
